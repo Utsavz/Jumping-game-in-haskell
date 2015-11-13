@@ -5,7 +5,7 @@ name:                WheresMyAssignment
 version:             0.1.0.0
 synopsis:            A functionally reactive game in Haskell
 -- description:         
-homepage:            https://github.com/Utsavz/Utsavzrepo/tree/master
+homepage:            https://github.com/Utsavz/assignmentgame
 license:             BSD3
 license-file:        LICENSE
 author:              Utsavz
